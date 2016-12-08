@@ -10,7 +10,8 @@
   },
   "authors": "Google, Inc.",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "tvos":"9.0"
   },
   "source": {
     "http": "https://www.gstatic.com/cpdc/dd2185c8104bac0e/FirebaseDatabase-3.0.3.tar.gz"
