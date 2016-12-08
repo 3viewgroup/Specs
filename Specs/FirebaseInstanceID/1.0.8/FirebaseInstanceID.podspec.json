@@ -10,7 +10,8 @@
   },
   "authors": "Google, Inc.",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "tvos":"9.0"
   },
   "source": {
     "http": "https://www.gstatic.com/cpdc/18da95d517c54d0f/FirebaseInstanceID-1.0.8.tar.gz"
