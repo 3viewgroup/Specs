@@ -10,7 +10,8 @@
   },
   "authors": "Google, Inc.",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "tvos":"9.0"
   },
   "source": {
     "http": "https://www.gstatic.com/cpdc/8e158ec1f7a46595/FirebaseAuth-3.0.5.tar.gz"
