@@ -10,7 +10,8 @@
   },
   "authors": "Google, Inc.",
   "platforms": {
-    "ios": "6.0"
+    "ios": "6.0",
+    "tvos":"9.0"
   },
   "source": {
     "http": "https://dl.google.com/dl/cpdc/54fd7b7ef8fd3edc/GoogleNetworkingUtilities-1.2.2.tar.gz"
