@@ -10,7 +10,8 @@
   },
   "authors": "Google Inc.",
   "platforms": {
-    "ios": "6.0"
+    "ios": "6.0",
+    "tvos":"9.0"
   },
   "vendored_frameworks": [
     "Frameworks/GoogleIPhoneUtilities.framework"
