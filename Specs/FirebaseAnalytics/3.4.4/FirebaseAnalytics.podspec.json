@@ -10,7 +10,8 @@
   },
   "authors": "Google, Inc.",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "tvos":"9.0"
   },
   "source": {
     "http": "https://dl.google.com/dl/cpdc/d133113f4e31efca/FirebaseAnalytics-3.4.4.tar.gz"
