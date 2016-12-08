@@ -10,7 +10,8 @@
   },
   "authors": "Google, Inc.",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "tvos":"9.0"
   },
   "source": {
     "http": "https://www.gstatic.com/cpdc/543f98d0a21bcb15/FirebaseMessaging-1.2.0.tar.gz"

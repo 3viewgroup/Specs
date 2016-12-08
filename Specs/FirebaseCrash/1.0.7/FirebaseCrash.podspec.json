@@ -10,7 +10,8 @@
   },
   "authors": "Google, Inc.",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "tvos":"9.0"
   },
   "source": {
     "http": "https://www.gstatic.com/cpdc/a51b0e91cc93b3ed/FirebaseCrash-1.0.7.tar.gz"
