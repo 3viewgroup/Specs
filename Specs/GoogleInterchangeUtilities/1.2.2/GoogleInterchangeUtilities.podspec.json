@@ -10,7 +10,8 @@
   },
   "authors": "Google, Inc.",
   "platforms": {
-    "ios": "6.0"
+    "ios": "6.0",
+    "tvos":"9.0"
   },
   "source": {
     "http": "https://dl.google.com/dl/cpdc/1a7f7ba905b2c029/GoogleInterchangeUtilities-1.2.2.tar.gz"
