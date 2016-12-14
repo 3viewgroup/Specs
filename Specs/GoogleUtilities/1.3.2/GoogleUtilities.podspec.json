@@ -20,7 +20,7 @@
     "Frameworks/frameworks/GoogleUtilities.framework"
   ],
   "frameworks": [
-    "AddressBook",
+    // "AddressBook",
     "CoreGraphics"
   ],
   "libraries": [
